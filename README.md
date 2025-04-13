@@ -27,9 +27,12 @@ This project implements a Retrieval-Augmented Generation (RAG) chatbot using [Ll
 ├── app.py              # (Optional) Web UI for chatbot interface
 ├── storage/            # Folder where indexed data is stored
 └── requirements.txt    # All necessary Python packages
+```
 
 
-⚙️ Setup Instructions
+
+## ⚙️ Setup Instructions
+
 1. 📦 Install Dependencies
 
 pip install -r requirements.txt
